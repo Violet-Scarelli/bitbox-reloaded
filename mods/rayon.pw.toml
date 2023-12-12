@@ -1,0 +1,13 @@
+name = "Rayon"
+filename = "rayon-fabric-1.7.1+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ttpzz4FC/versions/NvsMqX62/rayon-fabric-1.7.1%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "560b60bb02287c6e199c09554485e1ee72ce29c6"
+
+[update]
+[update.modrinth]
+mod-id = "Ttpzz4FC"
+version = "NvsMqX62"

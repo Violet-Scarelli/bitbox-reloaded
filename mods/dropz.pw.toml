@@ -1,0 +1,13 @@
+name = "Dropz"
+filename = "dropz-fabric-2.2.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VZgIULRf/versions/criTZPrZ/dropz-fabric-2.2.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "cc1a2c80338844acc4d5e8690cebba2404750fca"
+
+[update]
+[update.modrinth]
+mod-id = "VZgIULRf"
+version = "criTZPrZ"

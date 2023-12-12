@@ -1,0 +1,13 @@
+name = "Bitbox Reloaded"
+author = "Violet"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c544a2d90f78d40af064c5b1fc3cf70e7b55f1418459a69afa3217e89a0b20f9"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.22.1-beta.4"

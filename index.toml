@@ -149,11 +149,6 @@ hash = "2dc27cf27d4688c97c6af549a95d40d29b95b60f0ddde0dff670dbb2c36ee233"
 metafile = true
 
 [[files]]
-file = "mods/dropz.pw.toml"
-hash = "dd0809cf2241f821293894bfa31cc00669b4f8430a5034386d6be4dd4e98f2a9"
-metafile = true
-
-[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
 metafile = true
@@ -356,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
-metafile = true
-
-[[files]]
-file = "mods/rayon.pw.toml"
-hash = "a0a6676e0b40b4f20c0489021c404d838c98ee723082280928f586b3bc2470aa"
 metafile = true
 
 [[files]]

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -433,11 +437,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "cb33aee325796cf95a6dd475710619183fcb28a655bb8cf04e0e7223bb43b8c0"
-metafile = true
-
-[[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "fd388f2e0534df831360da52200cdb1bb45b764012de18050609a8d07df982f9"
 metafile = true
 
 [[files]]

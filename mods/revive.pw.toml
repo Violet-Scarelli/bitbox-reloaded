@@ -1,0 +1,13 @@
+name = "Revive"
+filename = "revive-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGRhpQYp/versions/XbfG13NP/revive-1.0.5.jar"
+hash-format = "sha1"
+hash = "579518f6f92ee444e10f4ba7cc83762af7d31044"
+
+[update]
+[update.modrinth]
+mod-id = "MGRhpQYp"
+version = "XbfG13NP"

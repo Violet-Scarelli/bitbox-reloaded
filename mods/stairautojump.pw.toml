@@ -1,0 +1,13 @@
+name = "StairAutoJump"
+filename = "stairautojump-0.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/shbn27fi/versions/rubC0Uul/stairautojump-0.0.6.jar"
+hash-format = "sha1"
+hash = "bc6fb877e97098227969a7e36c4ef86243e13368"
+
+[update]
+[update.modrinth]
+mod-id = "shbn27fi"
+version = "rubC0Uul"

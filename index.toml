@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "gitattributes"
-hash = "5f80b32880a436667e6c2ad2e3b357128987911b7c86af4664e0db61036d211e"
+hash = "1559be2685222af36156945e872780867b821d42cc946706b8f81ad70beddd24"
+
+[[files]]
+file = "gitignore"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -539,11 +539,6 @@ hash = "d78aaf967f7051e9bbe28bff1a10da4d3a5d2f9303d87597feb9cdd69332fb80"
 metafile = true
 
 [[files]]
-file = "mods/nameplate.pw.toml"
-hash = "0dd02029dbd5c7d08e8666a8f064f24f61e2f6f51a589c5795f6c34a942745dd"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "35e3e1c0a8c44475db5005153bbfdd71bb9fb9280b3f57c86bc5f5320118324c"
 metafile = true

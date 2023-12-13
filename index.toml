@@ -319,6 +319,11 @@ hash = "c4494a054d381d381950104045d88c6f6b18d433f665d92a9a124241fc16fe61"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "d63daf41168e68dde5d7d31025df42367b1eee7d134dc0c3cc3348e07772c504"
 metafile = true
@@ -671,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "4ad123b749b353fc99f702703a5779f542c9e4849adf274b796f476699e3d098"
-metafile = true
-
-[[files]]
-file = "mods/shimmer!.pw.toml"
-hash = "d6700d354b96ef9003cea83794d9d5c508aba4c8be312a5ff38fa76ee6161945"
 metafile = true
 
 [[files]]

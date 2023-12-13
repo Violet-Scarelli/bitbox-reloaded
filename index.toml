@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+hash = "d6face64c84c308a5c3a358314b0739802e32ef8dba27c554053a11ef62af3d5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

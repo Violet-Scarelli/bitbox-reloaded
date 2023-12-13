@@ -69,6 +69,11 @@ hash = "f582615230ed91892ce8e7f093a70fe03679d14c64eda074c6b58b71b931f66f"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
@@ -81,11 +86,6 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "75050079996e57d47b60285e2150daa62932dcc1578e711d78e88d36484dc2dc"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "4b68b30e6d461076e9e2e75de9a01782653c02e8fd05cb0222bea6123df36433"
 metafile = true
 
 [[files]]
@@ -124,8 +124,13 @@ hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-transmission.pw.toml"
+hash = "814ac0a07038d84efb837e41fa310be4d041c98b251a47a11da9c25d7ed33184"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7a04bd02a9031ffc9a8683aa7480d5a9b367a94824ca7229762abadca556be7e"
+hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
@@ -156,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "80b1ffa543a29f6bbd306a42542cfea53146f4e76e306d75afaebd5cb1846df8"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
 metafile = true
 
 [[files]]
@@ -219,8 +224,23 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/firework-frenzy.pw.toml"
+hash = "c3525aee3ddecf43d88d396581e61a60b40ca5016b27d965d77b913d11b7161b"
+metafile = true
+
+[[files]]
 file = "mods/fld.pw.toml"
 hash = "55a95a2981ebeb0b5712d9feffb967269821633576817468191e3eef5d5bce5e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "ffb563ffd488c0d7c9b083011a922c816deedd7732552ae08fffd6084781afeb"
 metafile = true
 
 [[files]]
@@ -234,8 +254,23 @@ hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
 metafile = true
 
 [[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "7b41d8f7150ba80bd80cee2f860807b123ed41224fce8ddd0a08bfe02ecb66d7"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "e3cb9bf5ad9c3c932499f7e5a582139b285b341e8269d1fc72f7bcdf7a225ba8"
+metafile = true
+
+[[files]]
+file = "mods/harvest-scythes.pw.toml"
+hash = "d273e6504bfd2f92c291f63f549e4cd31fed77b19dc25d4f7a4d2094c679ff40"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "1e564f4327545a931dc802733d70051a472e66e36d651e349979f3a4b35da711"
 metafile = true
 
 [[files]]
@@ -324,6 +359,11 @@ hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
 metafile = true
 
 [[files]]
+file = "mods/nets.pw.toml"
+hash = "d1d2dade960c77e3f33407d7f3499db79c3df9cc6b9623a96478a72a1c57aab5"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "62ef2bfdb19d1e8940639928b4d11beba6bf5e1a4244692e53feb49a428afe8b"
 metafile = true
@@ -364,13 +404,28 @@ hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "625430f4374524d197165fa6d41afad3dc65a60b16ab87298cba3d47581a5485"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
+file = "mods/resquake.pw.toml"
+hash = "bc41a72ebda120fef2a269ccdb22213b3779623acebfcf1763806199c95fe736"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
+metafile = true
+
+[[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "67656066f02cca863bbe378ca6125adaf235a817ba138d3129e69c30b5803bae"
 metafile = true
 
 [[files]]
@@ -396,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "1f79eeb7d996a945053d074eed5069754b8787a73ef17b84776228f8fdc93348"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
@@ -429,6 +489,11 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
 metafile = true
@@ -451,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "8d7779f0949f313a104884ad186ea5f21e57d8e089765445eb895463e6f12bbc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]

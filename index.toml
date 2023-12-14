@@ -614,11 +614,6 @@ hash = "5af048eafd9534c111825695ff60b39b709fb3e87d4ea6fae4f62a941728b348"
 metafile = true
 
 [[files]]
-file = "mods/puddles.pw.toml"
-hash = "aeaba266c12841cff28278435042855c525a7127c1390ef235f08254cac23a9b"
-metafile = true
-
-[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true

@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4ace2fddebd29772cedc112150422b2eacb1f62ce9b9b9cdb124034665220b69"
+hash = "f014464d921aad3fc691a9a5a5a684fa41c01d90f2773c9969248f038a0ecd67"
 metafile = true
 
 [[files]]

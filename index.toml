@@ -304,11 +304,6 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
-file = "mods/ender_bundle.pw.toml"
-hash = "9724ebf86522b184b171bea4618482dae10a4a8cb5a9b0d91058875e5167dc76"
-metafile = true
-
-[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "19f586630ad334f7783cccff44c648765bee7f3d0bd5641dd987970582c189b0"
 metafile = true

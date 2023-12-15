@@ -234,6 +234,11 @@ hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
 
 [[files]]
+file = "mods/deep-mob-learning-refabricated.pw.toml"
+hash = "860a6a08bb3497ae25ebc828278c135362f2223d01560cb34dc6411037022e6a"
+metafile = true
+
+[[files]]
 file = "mods/dehydration.pw.toml"
 hash = "56860050847b3ceda2ae4b53ab530758cecc4e9cfffe414957d56b8734d3fb90"
 metafile = true
@@ -676,6 +681,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f014464d921aad3fc691a9a5a5a684fa41c01d90f2773c9969248f038a0ecd67"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "51f2b23c7fd487792226b0f8cfce5057c0f42cfe870a99a22e4475fb9eb4cb37"
 metafile = true
 
 [[files]]

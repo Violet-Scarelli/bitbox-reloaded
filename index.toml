@@ -389,11 +389,6 @@ hash = "d273e6504bfd2f92c291f63f549e4cd31fed77b19dc25d4f7a4d2094c679ff40"
 metafile = true
 
 [[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "1e564f4327545a931dc802733d70051a472e66e36d651e349979f3a4b35da711"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "f59e2a13023c3f393efd4378332aac48b14a511ff35d2cd81e66c73db62fc237"
 metafile = true

@@ -234,11 +234,6 @@ hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
 
 [[files]]
-file = "mods/deep-mob-learning-refabricated.pw.toml"
-hash = "860a6a08bb3497ae25ebc828278c135362f2223d01560cb34dc6411037022e6a"
-metafile = true
-
-[[files]]
 file = "mods/dehydration.pw.toml"
 hash = "56860050847b3ceda2ae4b53ab530758cecc4e9cfffe414957d56b8734d3fb90"
 metafile = true
@@ -621,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "c5fc08c2c6d2e5c6325ec3bf1ef58debf08d8cf7172ba0caa94fbf0f544aeb62"
+metafile = true
+
+[[files]]
+file = "mods/reaper.pw.toml"
+hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
 metafile = true
 
 [[files]]

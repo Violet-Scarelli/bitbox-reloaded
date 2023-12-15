@@ -654,11 +654,6 @@ hash = "9f9bc3440b4ef79a0811e857afc636658c1af2f08ba57efc6865a6bc8f87625d"
 metafile = true
 
 [[files]]
-file = "mods/rpgz.pw.toml"
-hash = "9f799c9964413a8e770b3ba605dc113305e7b5e795b794eeafde6f726ec3c193"
-metafile = true
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "4ad123b749b353fc99f702703a5779f542c9e4849adf274b796f476699e3d098"
 metafile = true

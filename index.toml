@@ -629,6 +629,11 @@ hash = "c5fc08c2c6d2e5c6325ec3bf1ef58debf08d8cf7172ba0caa94fbf0f544aeb62"
 metafile = true
 
 [[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "4662d7b3050b98f4ebf300c087a4d073312a87ad06714c17bdc3abe936d7d50a"
+metafile = true
+
+[[files]]
 file = "mods/reaper.pw.toml"
 hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
 metafile = true

@@ -424,11 +424,6 @@ hash = "943432a0cef972de0e65eb7fa21634100f98de17b3f644b7ff8a8428ab9d17c0"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
-metafile = true
-
-[[files]]
 file = "mods/isometric-renders.pw.toml"
 hash = "2fb24a9973fa29a3ab5647474c65134464b35405747127777998c4061c88e066"
 metafile = true
@@ -876,24 +871,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-potion.pw.toml"
 hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "107b8b43e9fdd45cc38780875db8e4b976fadacc261f45cb39addd4e0ddb576a"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
 metafile = true

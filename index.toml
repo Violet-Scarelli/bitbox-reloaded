@@ -249,6 +249,11 @@ hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "28b69512a47fa5a0b35024d605541ef5e1b6c50986b55770d471d442c845b96c"
+metafile = true
+
+[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "53266b95f98658e85d2067e15e974f118d8c2912bcbb8c4a6d87f84c014676ee"
 metafile = true

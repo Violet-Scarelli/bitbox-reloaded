@@ -804,6 +804,11 @@ hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
+file = "mods/tradernpcs.pw.toml"
+hash = "da3da815b99e8487807f8ce584de07ab1433a02df5505437c97b2ce30ce269a9"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true

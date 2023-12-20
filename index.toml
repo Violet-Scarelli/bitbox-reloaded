@@ -124,6 +124,16 @@ hash = "75050079996e57d47b60285e2150daa62932dcc1578e711d78e88d36484dc2dc"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "4dcf5c66d30f78d3d84d2596149b457f7ab2021591e98f9d34b3636e8c961d60"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -281,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/duckling.pw.toml"
 hash = "2d12901720b4553a5bc2c84a45820d4b478a1f9580f43b758ed83c4f2564ff70"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "d8a51586ed3c982870bce4d9876a550ac188ebc2263e3acc368605978df608c2"
 metafile = true
 
 [[files]]

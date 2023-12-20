@@ -294,6 +294,11 @@ hash = "84c3fa8f432a1f7d8692e7a52f5c4a7b60c5c215a1329af48df76544e72b90d6"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "82b4407537197c227ffbacd6de6a6f1181f69389f1635be1952b9b8392174dac"
 metafile = true
@@ -361,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
-metafile = true
-
-[[files]]
-file = "mods/female-gender.pw.toml"
-hash = "22b5b816f2d36b6df6c65df396c2cb7191db382e96bfc0cac50c521453992857"
 metafile = true
 
 [[files]]

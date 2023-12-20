@@ -19,6 +19,11 @@ hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "3ceaa011b0a783f29742b8ccb24b361fae3b7170bb65e389985c98cff60f948c"
 metafile = true
@@ -119,8 +124,18 @@ hash = "75050079996e57d47b60285e2150daa62932dcc1578e711d78e88d36484dc2dc"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
 file = "mods/chickensshed.pw.toml"
 hash = "8bc786e062df82909ca65960da8c49469a70638587f28edbde548c47b94e1126"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
@@ -319,6 +334,11 @@ hash = "c4494a054d381d381950104045d88c6f6b18d433f665d92a9a124241fc16fe61"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "26d6336595b504f7d7a63193b7228e1cba407a8ec770dbd45cdbea99e03890d0"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "46e395784097899da3bd80fce9e6442f9eaa39c72af49ed288d1b6044288b8fd"
 metafile = true
@@ -341,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "22b5b816f2d36b6df6c65df396c2cb7191db382e96bfc0cac50c521453992857"
 metafile = true
 
 [[files]]
@@ -524,6 +549,11 @@ hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
+file = "mods/more-geodes.pw.toml"
+hash = "59cf85e5c896edecde2c4b50c5103d624d175f711eae0f0bad6e73b1818ce4a5"
+metafile = true
+
+[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "d91e9e9b3810e9477226b3bd242b410e1e777d14ab674e6db4bbcb7e1e1e0117"
 metafile = true
@@ -689,6 +719,11 @@ hash = "442827f804bf0c72a73f4b4948875908a997821b77e35de9d4af7d37f1c7f0f1"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "118362f9760d3dc05eeeb7eb505e1556dcf12ba4e14dbf2d3f47d9c2b4ceee86"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f014464d921aad3fc691a9a5a5a684fa41c01d90f2773c9969248f038a0ecd67"
 metafile = true
@@ -756,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "6e7aba32e000b65aff90d2d85566fc8c019badbb8bb0129c761ca02fffa8d3b6"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.pw.toml"
+hash = "debad28abf86d1c0d562765fab394569469719e3cc3ad362b9f503ac06c1cf57"
 metafile = true
 
 [[files]]

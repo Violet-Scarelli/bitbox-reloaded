@@ -1,0 +1,13 @@
+name = "Exposure"
+filename = "exposure-1.19.2-1.2.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/hyDJB6vg/exposure-1.19.2-1.2.1-fabric.jar"
+hash-format = "sha1"
+hash = "cb51057255d8c0d6bd9ed55f9351d110f59fb0ab"
+
+[update]
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "hyDJB6vg"

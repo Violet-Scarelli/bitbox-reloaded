@@ -1,13 +1,13 @@
 name = "Random Village Names"
-filename = "randomvillagenames-1.19.2-3.4.jar"
+filename = "randomvillagenames-1.19.2-3.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N0ytbukx/versions/8nIgo2Ly/randomvillagenames-1.19.2-3.4.jar"
+url = "https://cdn.modrinth.com/data/N0ytbukx/versions/Ibdmzo1R/randomvillagenames-1.19.2-3.5.jar"
 hash-format = "sha1"
-hash = "155e92433e5a0ad3261f70fd21fd18412f991482"
+hash = "659db5856ddf737d1aa7169788de2a9d1b9eda02"
 
 [update]
 [update.modrinth]
 mod-id = "N0ytbukx"
-version = "8nIgo2Ly"
+version = "Ibdmzo1R"

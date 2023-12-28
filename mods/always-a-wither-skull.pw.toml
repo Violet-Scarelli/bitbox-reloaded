@@ -1,13 +1,13 @@
 name = "Always a Wither Skull"
-filename = "alwaysawitherskull-1.19.2-3.1.jar"
+filename = "alwaysawitherskull-1.19.2-3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RH07bruJ/versions/uWlNcqFy/alwaysawitherskull-1.19.2-3.1.jar"
+url = "https://cdn.modrinth.com/data/RH07bruJ/versions/xTugRJ4q/alwaysawitherskull-1.19.2-3.2.jar"
 hash-format = "sha1"
-hash = "fcdc48eb1b3d74e37b03fafd60b3259fc29ac1b4"
+hash = "4e45f118da66c2d3488d335183ad99611581506d"
 
 [update]
 [update.modrinth]
 mod-id = "RH07bruJ"
-version = "uWlNcqFy"
+version = "xTugRJ4q"

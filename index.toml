@@ -59,6 +59,11 @@ hash = "d24195f590be8695c74a071b37081234aafdb5cd49c726c7285a990bc2639517"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "f81eee12bda0e0058f82ae92b342028aaa45a2bc2df46b8506cbee377e155089"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -414,6 +419,11 @@ hash = "ffb563ffd488c0d7c9b083011a922c816deedd7732552ae08fffd6084781afeb"
 metafile = true
 
 [[files]]
+file = "mods/fullblock-energistics.pw.toml"
+hash = "a16360c05afe7a99dd6d281d780c0acc9fbcc3301b9beeae6f7d6d39a3f2b5b6"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
 metafile = true
@@ -649,6 +659,11 @@ hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "f8ff6d00aa5d5443590feeebadc80c410832a09ee8f38c5f415acbc50100b4e0"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
@@ -801,6 +816,16 @@ metafile = true
 [[files]]
 file = "mods/stairautojump.pw.toml"
 hash = "ff4130a8ed2784819d7e2916f107c518e1f0d54a6f3cea4e9e0c15983bb16087"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8ca0446a0b3082fd087e698317c616149dd85c245b51739968af43eb819604cc"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c2118f16d354ae2959605ff89b50f53b4387f2ff1255b6d4609506f741a6dca"
 metafile = true
 
 [[files]]

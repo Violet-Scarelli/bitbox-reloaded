@@ -10,7 +10,7 @@ hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+hash = "df8ff53d2d7b23058fc9ca13b3ef4238b3a05d5d8c776c93097ac90702b11d6d"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "324c451b637863d5778609df4798128edc760c17f0fb661658c4299f298ee0eb"
+hash = "d8766bd00946a1cc51ae41c9e93a14354cb6769217dc6587195f0700280a1f06"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0df89fdbd02ccede40b1dcaf304a5c7cac16e74778aa84474463ba0aaca54ef8"
+hash = "9c44148780360b0e0f185e3adb24222c61577b2581735475b3f834e160735883"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "62ef2bfdb19d1e8940639928b4d11beba6bf5e1a4244692e53feb49a428afe8b"
+hash = "95e09d27ced14fcdc42966a5a75c39c6e3c53f70bea080f0ce6fb88ce9e4818f"
 metafile = true
 
 [[files]]
@@ -739,6 +739,11 @@ hash = "4ad123b749b353fc99f702703a5779f542c9e4849adf274b796f476699e3d098"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "709e3bb25f8b35de2d4c6b5f78bcdd288cd5d5bfca8a616b224203eda8fb5bb3"
+metafile = true
+
+[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "2138a812408929d94c6753da38bea38e3be42f6891ee5a1c9a092de4ad1080de"
 metafile = true
@@ -830,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a90637cef6ec8a50aea19e22c07afcb2756cefa61af04ae94145d4dbd6def0c9"
+hash = "0c616e0cc10e90ce084b7e6e97d17f26626a06090f7e71731b7d32384f007338"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "6e7aba32e000b65aff90d2d85566fc8c019badbb8bb0129c761ca02fffa8d3b6"
+hash = "fa1ae699c5efad8b928427b3014d802e37ab94395e89370cca7677409544b43a"
 metafile = true
 
 [[files]]
@@ -846,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/the-corners.pw.toml"
+hash = "1bf75722c4e4e064261441727c911fd7121fdcec1e9650d8ed03e92430d192bb"
 metafile = true
 
 [[files]]

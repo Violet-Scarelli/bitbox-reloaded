@@ -244,11 +244,6 @@ hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
 metafile = true
 
 [[files]]
-file = "mods/crying-ghasts.pw.toml"
-hash = "cf5d7ce86abbd61dbeccdeec2ebc9b5dd0bfcb10c08a6bb3c7822b6b82010985"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
 metafile = true
@@ -276,11 +271,6 @@ metafile = true
 [[files]]
 file = "mods/dehydration.pw.toml"
 hash = "56860050847b3ceda2ae4b53ab530758cecc4e9cfffe414957d56b8734d3fb90"
-metafile = true
-
-[[files]]
-file = "mods/despawning-eggs-hatch.pw.toml"
-hash = "dcfe2db4d994d3d9b90108940f4394653b51d1afda7472100cd843d40f38c0ba"
 metafile = true
 
 [[files]]

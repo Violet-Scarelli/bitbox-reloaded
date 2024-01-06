@@ -244,8 +244,18 @@ hash = "7646dd860da502a19dea0fbdd470872da374d33b0e66359fe2ed9c91a3006c0b"
 metafile = true
 
 [[files]]
+file = "mods/crying-ghasts.pw.toml"
+hash = "cf5d7ce86abbd61dbeccdeec2ebc9b5dd0bfcb10c08a6bb3c7822b6b82010985"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "08df88bcf97ebd4cecfd0b0e8717fe8a3c8821e1fde21e7699abed68b55ef40a"
 metafile = true
 
 [[files]]
@@ -686,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "33bf3a6ab9ffb98ea366b4fd5d048a43d7f877a6c3e317328d4c24f532489771"
+metafile = true
+
+[[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "84e8c4e1af3f1ccd8b38a86ca45cc6ecc5de46b6aaf545050556e9fd7b8771fd"
 metafile = true
 
 [[files]]

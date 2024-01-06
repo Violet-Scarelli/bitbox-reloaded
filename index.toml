@@ -249,11 +249,6 @@ hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
 metafile = true
 
 [[files]]
-file = "mods/cycle-paintings.pw.toml"
-hash = "08df88bcf97ebd4cecfd0b0e8717fe8a3c8821e1fde21e7699abed68b55ef40a"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
 metafile = true

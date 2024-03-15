@@ -679,11 +679,6 @@ hash = "33bf3a6ab9ffb98ea366b4fd5d048a43d7f877a6c3e317328d4c24f532489771"
 metafile = true
 
 [[files]]
-file = "mods/rats-mischief.pw.toml"
-hash = "84e8c4e1af3f1ccd8b38a86ca45cc6ecc5de46b6aaf545050556e9fd7b8771fd"
-metafile = true
-
-[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "9f73026dbb08c65e31a67af59597788e10997634a4c0e97010c18591b08c3871"
 metafile = true

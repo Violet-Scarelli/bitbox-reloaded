@@ -1,13 +1,13 @@
 name = "Quit"
-filename = "Quit-Forge-1.19.2-1.0.1.jar"
+filename = "Quit-Fabric-1.20.2-1.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bcIar9jW/versions/z9KwTtvs/Quit-Forge-1.19.2-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/bcIar9jW/versions/yU3t7Brc/Quit-Fabric-1.20.2-1.0.0.jar"
 hash-format = "sha1"
-hash = "312acdca7ac1c437fdd931b117b97bec1f716d00"
+hash = "a911aa8b6673a76147335e7030abf424b2fe08cc"
 
 [update]
 [update.modrinth]
 mod-id = "bcIar9jW"
-version = "z9KwTtvs"
+version = "yU3t7Brc"

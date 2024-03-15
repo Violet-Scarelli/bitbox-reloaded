@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/quit.pw.toml"
-hash = "995ab536d7db3d4e58c1770d031cc0b1916fd4282dc3c3b380c57b57f8248f00"
+hash = "7b9d8e31005486370dbdc3736c1dafe50391aaf89e8164f5663792a39afe2708"
 metafile = true
 
 [[files]]

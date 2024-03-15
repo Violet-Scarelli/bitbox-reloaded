@@ -674,11 +674,6 @@ hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
-file = "mods/quit.pw.toml"
-hash = "7b9d8e31005486370dbdc3736c1dafe50391aaf89e8164f5663792a39afe2708"
-metafile = true
-
-[[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "33bf3a6ab9ffb98ea366b4fd5d048a43d7f877a6c3e317328d4c24f532489771"
 metafile = true

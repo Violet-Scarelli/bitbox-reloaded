@@ -839,6 +839,11 @@ hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "970bd250c0bbd6ce0249c6e5bde09adabda4969e13ead743f684549b31beaace"
+metafile = true
+
+[[files]]
 file = "mods/the-corners.pw.toml"
 hash = "1bf75722c4e4e064261441727c911fd7121fdcec1e9650d8ed03e92430d192bb"
 metafile = true

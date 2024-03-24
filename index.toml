@@ -504,11 +504,6 @@ hash = "15621be8230cccbabbe2beb4694b1e26d0f7bf380db23aa12b056104327e149d"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "24098e468fbcbe750a66ccad93fa9c3cb6da3000b4b7c4317d6c77ea4f95ca25"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true

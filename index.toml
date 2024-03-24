@@ -529,11 +529,6 @@ hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
 metafile = true
 
 [[files]]
-file = "mods/levelz.pw.toml"
-hash = "0d89ac5e9b137d8daa67e688b7a50ad96aaebcc5bdfb402e2bd58c37dfd7289b"
-metafile = true
-
-[[files]]
 file = "mods/libz.pw.toml"
 hash = "906dc77dd376ff5e312ba46011babdd10a0852e58956357d700a9310ba087ac0"
 metafile = true

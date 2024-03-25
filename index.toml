@@ -739,11 +739,6 @@ hash = "118362f9760d3dc05eeeb7eb505e1556dcf12ba4e14dbf2d3f47d9c2b4ceee86"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ee4299160d4f996c1d3e74a8fa28ccf8b5672c1b580593644d0adaf8c2b5d6e8"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "e4be28c7e5186a82071ee74ebff65374dd9b3b49f65a5da80e2a5642033edca0"
 metafile = true
@@ -866,11 +861,6 @@ metafile = true
 [[files]]
 file = "mods/vitalize.pw.toml"
 hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "0255c22a24d44a5734646e36ef39b3139d27ad8a0a117cb08da9e777307de650"
 metafile = true
 
 [[files]]
